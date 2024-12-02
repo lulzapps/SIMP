@@ -1,11 +1,11 @@
 # SIMP
 
-SIMP is a JSON-based designed to implement a decentralized instant messaging system. It is designed to be easy to implement and use. There are three different modes of communication in which this protocol is used: client-server, server-server and client-client (aka peer-to-peer).
+SIMP is a JSON-based protocol designed to implement a decentralized instant messaging system. 
 
-The goals of this protocol are to make is: 
+The goals of this protocol are to make it: 
 
 * Lightweight - Optimized for low-latency communication
-* Easy to implement - Designed to be easy to implement in any programming language
+* Easy to implement - Designed to easily implement clients or servers in any programming language
 * Flexible - Support future extensions and modifications
 * Secure - Designed with security in mind
 
